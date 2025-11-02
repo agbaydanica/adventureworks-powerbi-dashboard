@@ -3,7 +3,8 @@
 ## Project Overview  
 
 This guided project simulates the role of a **Business Intelligence Analyst** at *AdventureWorks*, a global manufacturing company that produces cycling equipment and accessories.  
-**Role:** Business Intelligence Analyst (Project Simulation)  
+
+**Source:** Maven Analytics – *Microsoft Power BI Desktop for Business Intelligence (Udemy)*  
 
 The management team needed a way to:  
 - Track key performance indicators (Sales, Revenue, Profit, Returns)  
@@ -65,6 +66,5 @@ It also helped me understand how Business Intelligence supports real-world decis
 
 ## Acknowledgment  
 
-Data and project brief provided by **Maven Analytics** as part of the  
-*Microsoft Power BI Desktop for Business Intelligence* course on **Udemy**.  
+Data and project brief provided by **Maven Analytics** as part of the *Microsoft Power BI Desktop for Business Intelligence* course on **Udemy**.  
 
