@@ -4,8 +4,6 @@
 
 This guided project simulates the role of a **Business Intelligence Analyst** at *AdventureWorks*, a global manufacturing company that produces cycling equipment and accessories.  
 
-**Source:** Maven Analytics – *Microsoft Power BI Desktop for Business Intelligence (Udemy)*  
-
 The management team needed a way to:  
 - Track key performance indicators (Sales, Revenue, Profit, Returns)  
 - Compare performance across regions  
@@ -13,6 +11,8 @@ The management team needed a way to:
 - Identify high-value customers  
 
 The goal was to transform raw CSV data into actionable insights through a fully interactive **Power BI dashboard**.  
+
+**Source:** Maven Analytics – *Microsoft Power BI Desktop for Business Intelligence (Udemy)*  
 
 ---
 
